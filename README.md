@@ -30,7 +30,7 @@
 - 모든 문서 작성은 **markDown**으로 작성해 주세요.
 
 # Contributors
-- 최영훈
+- [최영훈](https://github.com/dudgns3tp)
 
 
 
