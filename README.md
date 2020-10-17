@@ -31,8 +31,6 @@
 
 # Contributors
 - [최영훈](https://github.com/dudgns3tp)
+- [김우영](https://github.com/w00ing)
 - [류세화](https://github.com/sophryu99)
 - [강준우](https://github.com/KangJunewoo)
-
-
-
