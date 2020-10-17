@@ -31,6 +31,7 @@
 
 # Contributors
 - [최영훈](https://github.com/dudgns3tp)
+- [이수진](https://github.com/suzieep)
 
 
 
