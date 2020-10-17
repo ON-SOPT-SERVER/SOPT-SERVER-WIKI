@@ -31,6 +31,7 @@
 
 # Contributors
 - [최영훈](https://github.com/dudgns3tp)
+- [최다인](https://github.com/DA-IN-droid)
 
 
 
