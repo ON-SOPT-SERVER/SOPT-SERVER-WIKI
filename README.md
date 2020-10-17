@@ -32,5 +32,5 @@
 # Contributors
 - [최영훈](https://github.com/dudgns3tp)
 
-
+- [김민지](https://github.com/milkyKim)
 
