@@ -31,6 +31,7 @@
 
 # Contributors
 - [최영훈](https://github.com/dudgns3tp)
+- [양재욱](https://github.com/didwodnr123)
 - [최다인](https://github.com/DA-IN-droid)
 - [김우영](https://github.com/w00ing)
 - [류세화](https://github.com/sophryu99)
