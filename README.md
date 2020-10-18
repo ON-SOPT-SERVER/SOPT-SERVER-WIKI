@@ -39,5 +39,5 @@
 - [류세화](https://github.com/sophryu99)
 - [강준우](https://github.com/KangJunewoo)
 - [이현주](https://github.com/bokdoll)
+- [오승재](https://github.com/oh980225)
 - [박상수](https://github.com/epitoneproject)
-  
