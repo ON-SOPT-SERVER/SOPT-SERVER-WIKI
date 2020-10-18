@@ -43,3 +43,4 @@
 - [최정균](https://github.com/wjdrbs96)
 - [오승재](https://github.com/oh980225)
 - [박상수](https://github.com/epitoneproject)
+- [신지혜](https://github.com/NewWisdom)
