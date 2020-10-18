@@ -31,6 +31,7 @@
 
 # Contributors
 - [최영훈](https://github.com/dudgns3tp)
+- [윤가영](https://github.com/kyY00n)
 - [김민지](https://github.com/milkyKim)
 - [최선욱](https://github.com/seonuk)
 - [양재욱](https://github.com/didwodnr123)
