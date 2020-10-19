@@ -31,6 +31,7 @@
 
 # Contributors
 - [최영훈](https://github.com/dudgns3tp)
+- [이수진](https://github.com/suzieep)
 - [윤가영](https://github.com/kyY00n)
 - [김민지](https://github.com/milkyKim)
 - [최선욱](https://github.com/seonuk)
@@ -44,3 +45,4 @@
 - [오승재](https://github.com/oh980225)
 - [박상수](https://github.com/epitoneproject)
 - [김기문](https://github.com/tributetothemoon)
+- [신지혜](https://github.com/NewWisdom)
