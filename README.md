@@ -32,6 +32,15 @@
 # Contributors
 - [최영훈](https://github.com/dudgns3tp)
 - [이수진](https://github.com/suzieep)
-
-
-
+- [윤가영](https://github.com/kyY00n)
+- [김민지](https://github.com/milkyKim)
+- [최선욱](https://github.com/seonuk)
+- [양재욱](https://github.com/didwodnr123)
+- [최다인](https://github.com/DA-IN-droid)
+- [김우영](https://github.com/w00ing)
+- [류세화](https://github.com/sophryu99)
+- [강준우](https://github.com/KangJunewoo)
+- [이현주](https://github.com/bokdoll)
+- [최정균](https://github.com/wjdrbs96)
+- [오승재](https://github.com/oh980225)
+- [박상수](https://github.com/epitoneproject)
