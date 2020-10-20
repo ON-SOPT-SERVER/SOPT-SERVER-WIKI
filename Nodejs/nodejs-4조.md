@@ -1,7 +1,7 @@
 # NodeJS 정리
 
 ## 목차
-1. [NodeJS란](#nodejs-is)
+1. [NodeJS란](#nodejs-is) (작성자: 김우영)
 2. [NodeJS의 특징](#characteristics)
 
     2.1 [Non-Blocking I/O](#non-blocking)
