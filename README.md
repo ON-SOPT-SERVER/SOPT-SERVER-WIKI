@@ -46,4 +46,8 @@
 - [박상수](https://github.com/epitoneproject)
 - [김기문](https://github.com/tributetothemoon)
 - [신지혜](https://github.com/NewWisdom)
+<<<<<<< HEAD
+- [홍혜림](https://github.com/herimhong)
+=======
 - [이영은](https://github.com/YeongEunLee)
+>>>>>>> f6c996d356e85b4bddb84825c1b0b0e47c137e58
