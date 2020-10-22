@@ -61,6 +61,30 @@ console.log('Hello again);
 
 ### &ensp; 2.2 Single Thread <a name="single-thread"></a>
 
+**2.2.1 Single Thread란**
+
+```
+Single Thread란 하나의 Thread만 사용하여 여러 client로 부터 오는 Req를 처리하는것
+
+client의 요청이 들어오면 thread는 CPU작업을 하다가 IO작업을 하고 그동안 다른 client의 요청을 받아서 실행시켜준다.
+
+EX) A고객이 카운터에게 팥빙수를 주문하면 바리스타는 팥빙수를 만든다. 그 와중에 B고객이 카운터에서 아이스아메리카노를 주문하면 카운터에서 주문을 받고 팥빙수를 만들면서 아이스아메리카노를 내린다. 하지만 아이스아메리카노가 더 빨리 만들수있기 떄문에 B고객의 아이스아메리카노가 먼저나오고 팥빙수가 나중에 나온다.  
+
+작업을 요청한 순서와 반환되는 순서는 일치하지 않을수 있다!
+```
+
+**2.2.2  노드는 Multi Tread???**
+
+```
+Node.Js는 single thread뿐만 아니라 내부적으로 multi thread pool을 사용한다.
+이는 '너무 많은 CPU'를 사용하는 작업이나 '대용량 파일을 처리'시에 Non Blocking이
+에러를 발생하게 되고 node자체가 다운될수 있다. 이떄는 thread pool에서 대기하고 있던 thread를 이용하여 blocking을 막아줄수있다.
+
+참고로 노드의 multi thread pool에서 thread를 강제로 뽑아서 노드를 multi thread로 사용해줄수 있지만.. 노트북이 히터가 될수 있다!
+```
+
+
+
 ### &ensp; 2.3 Event-Driven <a name="event-driven"></a>
 
 ## 3. NodeJS의 장점 <a name="pros"></a>
