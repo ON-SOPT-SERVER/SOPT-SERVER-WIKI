@@ -48,3 +48,4 @@
 - [신지혜](https://github.com/NewWisdom)
 - [홍혜림](https://github.com/herimhong)
 - [이영은](https://github.com/YeongEunLee)
+- [이현종](https://github.com/hyunjong-96)
