@@ -10,7 +10,7 @@
 
     2.3 [Event-Driven](#event-driven)
 
-3. [NodeJS의 장점](#pros)
+3. [NodeJS의 장점](#pros) (작성자 : 이영은)
 4. [NodeJS의 단점](#cons)
 5. [NodeJS로 할 수 있는 것](#what-we-can-do)
 
@@ -88,6 +88,18 @@ Node.Js는 single thread뿐만 아니라 내부적으로 multi thread pool을 �
 ### &ensp; 2.3 Event-Driven <a name="event-driven"></a>
 
 ## 3. NodeJS의 장점 <a name="pros"></a>
+
+* Single Thread, 비동기 I/O 처리에 기반하여 높은 성능을 가진다.
+* File I/O와 네트워크 처리를 이벤트 드리븐 방식으로 처리하여 빠른 처리가 가능하다.
+* CPU 대기시간을 최소화 할 수 있다.
+* CPU 부하가 적고, 많은 커넥션을 동시에 처리하는 구조에 적합하다.
+* JavaScript를 이용하기 때문에 프론트엔드 개발자의 진입장벽이 낮다.
+* Non-blocking I/O와 Single Thread 이벤트 루프를 통한 높은 Request 처리 성능을 가진다.
+```
+Non-blocking I/O는 비동기 처리를 실시하므로 데이터베이스 처리와 웹 페이지 표시를 별도 진행한다.
+```
+* SocketIO라는 실시간 통신을 실현하는 라이브러리 사용으로 대량의 데이터 처리와 실시간 통신을 구현할 수 있다.
+
 
 ## 4. NodeJS의 단점 <a name="cons"></a>
 
