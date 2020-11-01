@@ -11,7 +11,7 @@
     2.3 [Event-Driven](#event-driven)
 
 3. [NodeJS의 장점](#pros) (작성자 : 이영은)
-4. [NodeJS의 단점](#cons)
+4. [NodeJS의 단점](#cons) (작성자 : 송정우)
 5. [NodeJS로 할 수 있는 것](#what-we-can-do) (작성자: 류세화)
 
 
@@ -102,6 +102,15 @@ Non-blocking I/O는 비동기 처리를 실시하므로 데이터베이스 처�
 
 
 ## 4. NodeJS의 단점 <a name="cons"></a>
+Node의 단점은 여러 가지가 있지만, 
+한 가지 참고할 만한 자료로 NodeJS를 만들었던 라이언 달이 아키텍쳐 적으로 후회한 10가지가 참고할 만 하다.
+https://medium.com/@imior/10-things-i-regret-about-node-js-ryan-dahl-2ba71ff6b4dc
+
+이 외에도 시스템을 개발하면서 개인적으로 느낀 단점은
+1. 트랜잭션 관리를 중점적으로 다룬 라이브러리를 찾기 어렵다는 점
+2. 정적 타입 시스템을 Default로 지원하지 않기 때문에, 타입이 명확하지 않아 input, output 처리가 어렵다는 점
+3. 잘못된 값에 대해 null, undefined 등 너무 여러 가지로 표현할 수 있다는 점
+과 같은 단점들이 있다.
 
 ## 5. NodeJS로 할 수 있는 것 <a name="what-we-can-do"></a>
 
