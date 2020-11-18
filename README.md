@@ -52,3 +52,4 @@
 - [최예진](https://github.com/Yejin6911)
 - [임찬기](https://github.com/Lim-Changi)
 - [신연상](https://github.com/yxxshin)
+- [정효원](https://github.com/Jeong-Hyowon)

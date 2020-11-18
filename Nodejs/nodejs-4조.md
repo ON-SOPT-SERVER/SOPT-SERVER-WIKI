@@ -8,7 +8,7 @@
 
     2.2 [Single Thread](#single-thread)
 
-    2.3 [Event-Driven](#event-driven)
+    2.3 [Event-Driven](#event-driven) (작성자 : 정효원)
 
 3. [NodeJS의 장점](#pros) (작성자 : 이영은)
 4. [NodeJS의 단점](#cons) (작성자 : 송정우)
@@ -86,6 +86,21 @@ Node.Js는 single thread뿐만 아니라 내부적으로 multi thread pool을 �
 
 
 ### &ensp; 2.3 Event-Driven <a name="event-driven"></a>
+
+* Event-Driven 이란?
+```
+이벤트가 발생할 때 미리 지정해 둔 작업을 수행하는 것
+즉, 특정 이벤트가 발생할 때 어떤 작업을 수행할 것인지 미리 등록해야 한다.
+```
+* ex ) 어떤 버튼을 클릭했을 때, 알림 메시지를 띄우는 행위는 '이벤트 리스너에 콜백 함수를 등록한다고 표현'
+* Event-Loop
+  * 여러 이벤트가 동시에 발생했을 때, 어떤 순서로 콜백 함수를 호출할 지를 'Event-Loop'가 판단한다.
+  * 함수 호출 부분을 발견하면 호출한 함수를 '호출 스택'에 담는다.
+  * 함수의 실행이 완료되면 해당 함수는 '호출 스택'에서 지워진다.
+  * ``` Event-Loop : 이벤트 발생 시 콜백 함수들을 관리한다. 호출된 콜백 함수의 실행 순서를 결정한다. 노드가 종료될 때 까지 작업을 반복한다. ``` 
+  *  ```  Task Queue : 이벤트 발생 후 호출된 콜백 함수들을 쌓아두는 곳이다. 콜백들은 이벤트 루프가 정한 순서대로 쌓인다.``` 
+  *   ``` Background : 타이머나 I/O 작업 콜백, 이벤트 리스너들을 쌓아두는 곳이다. ``` 
+
 
 ## 3. NodeJS의 장점 <a name="pros"></a>
 
